@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kenan
 - 👀 I’m interested in Programming, Politics :D
-- 🌱 I’m currently learning NodeJs and Angular2
+- 🌱 I’m currently learning Symfony, Laravel and Angular2
 - 📫 How to reach me 
       Email -> kenan.mahmic1996@gmail.com
       Slack -> Kenan Mahmic (Keno)
